@@ -1,0 +1,24 @@
+# Visual Studio / .NET derleme çıktıları
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ll]og/
+TestResults/
+*.log
+.vscode/
+.idea/
+
+# Uygulamanın ürettiği geçmiş / günlük dosyaları
+sohbet_*.txt
+sunucu_gunlugu_*.txt
+
+# Yayınlanmış tek dosya exe'ler (GitHub'a gitmesin)
+Exe/
